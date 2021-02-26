@@ -1,6 +1,6 @@
 **Welcome to my GitHub page!** :wave:
 
-<img src="https://raw.githubusercontent.com/DanielWeller/DanielWeller/main/data.jpg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/DanielWeller/DanielWeller/main/data.jpg" width="300px" height="300px">
 
 I am a big fan of intelligent solutions with mathematical modelling, machine learning and artificial intelligence.
 
