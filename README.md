@@ -1,4 +1,4 @@
-**Welcome to my GitHub page!**
+**Welcome to my GitHub page!** :wave:
 
 Connect with me on these platforms:
 
