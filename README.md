@@ -4,9 +4,10 @@
 
 ## I am a big fan of intelligent solutions with mathematical modelling, machine learning and artificial intelligence.
 
-## As Clive Humby said:
+### As Clive Humby said:
 
 > Data is the new oil.
+
 
 Connect with me on these platforms:
 
