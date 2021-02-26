@@ -1,5 +1,7 @@
 **Welcome to my GitHub page!** :wave:
 
+[](https://raw.githubusercontent.com/DanielWeller/DanielWeller/main/data.jpg)
+
 I am a big fan of intelligent solutions with mathematical modelling, machine learning and artificial intelligence.
 
 Connect with me on these platforms:
