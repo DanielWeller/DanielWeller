@@ -1,6 +1,6 @@
 **Welcome to my GitHub page!** :wave:
 
-[](https://raw.githubusercontent.com/DanielWeller/DanielWeller/main/data.jpg)
+![alt text](https://raw.githubusercontent.com/DanielWeller/DanielWeller/main/data.jpg)
 
 I am a big fan of intelligent solutions with mathematical modelling, machine learning and artificial intelligence.
 
