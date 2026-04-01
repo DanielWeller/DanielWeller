@@ -1,0 +1,66 @@
+[00:00 - 00:06] What's up everyone? Today I want to show you a workflow that being using for going from a mobile app idea that it had
+[00:06 - 00:09] To coming up with a design concept that looks cool and
+[00:10 - 00:16] Implementing it in a react native very fast. So if you want to shape a not fast, but still making it look good
+[00:16 - 00:18] Hopefully this can be helpful
+[00:18 - 00:22] And we're gonna do everything without ever leaving cloud code because I love cloud code
+[00:22 - 00:25] It I use it for basically all my code
+[00:25 - 00:32] So might as well use it for design as well. So we have everything in the same place and there were flows like smudge smooter
+[00:32 - 00:37] So out of the box cloud code is not the best mobile app designer in the word
+[00:37 - 00:42] But thank God we have skills which are basically superpowers for cloud code and
+[00:43 - 00:49] Teach cloud code how to do things that it cannot do all natively. So in this example we're gonna use this link the design
+[00:50 - 00:55] Skill which essentially gives cloud code superpowers for mobile app design
+[00:56 - 01:00] We just have to copy this command run it in our terminal and all is gonna do is
+[01:02 - 01:04] Download this markdown file that
+[01:05 - 01:07] Cloud code can access to
+[01:07 - 01:11] Create mobile app designs. We also need an API key for sleek
+[01:12 - 01:15] We just need to go here for a key and
+[01:16 - 01:19] Set it as an environment variable in our terminal session
+[01:19 - 01:27] You have to type export and then something like this. So now you have my API key. I might forget to delete it
+[01:27 - 01:33] Feel free to try if still works and use it. But yeah, I've already done this
+[01:34 - 01:36] So now I need to run
+[01:36 - 01:41] Quad code and this example we're gonna build a not for
+[01:41 - 01:47] Reading summaries of popular books. So let me just tell cloud a prompt to cloud code
+[01:48 - 01:51] Hey cloud can you use this leak skill to
+[01:52 - 02:01] Elmly design an app for greeting summaries of popular books for now create three variations of the home screen
+[02:01 - 02:06] Each with a different vibe and then show me a screenshot of each of them
+[02:06 - 02:11] And boom let's let cloud code cook
+[02:12 - 02:21] So instead of starting by design the entire app. I'd like to focus on a screen forest and kind of get two three different
+[02:21 - 02:26] Variations so we can check different vibes and see what we like and then once we have an idea
+[02:27 - 02:30] What we want we can go on and like design the entire app
+[02:30 - 02:36] All right, so cloud is done and took a few minutes
+[02:36 - 02:44] Generated three different design concepts. So we have this one that is like a dark mode sleek vibes
+[02:44 - 02:52] Up with this elegant and minimal vibes. This is actually pretty cool and we have this playful
+[02:53 - 02:55] vibes very colorful
+[02:56 - 02:58] Design so of course we can keep
+[02:59 - 03:04] iterating on each direction create new directions and so on but for this tutorial might keep it simple
+[03:04 - 03:09] So I'm just gonna pick I'm just gonna pick the this one that I liked the most and we can now
+[03:10 - 03:14] Create all the other screens. So I'm just gonna ask load
+[03:16 - 03:24] Okay, I like the elegant minimal vibe can you now create the other screens that we need so we need
+[03:24 - 03:29] Screen for reading the summary of a single book. We need
+[03:30 - 03:36] Our profile screen and a screen with some statistics about our user jot the up
+[03:39 - 03:41] Cool and now it's gonna
+[03:41 - 03:46] Create the remaining screens always using this link API and we'll be done soon
+[03:47 - 03:51] Now we created a screenshot with all these screens and
+[03:52 - 03:58] Yeah, it's looking good to me. So now we can take designs and actually implement them in React native
+[03:58 - 04:00] I have here just a
+[04:00 - 04:04] empty React native export project and we're just gonna ask clad code
+[04:05 - 04:07] To do the implementation
+[04:08 - 04:12] All right now let's implement these designs in our React native up
+[04:14 - 04:16] Cool and let's let it click again
+[04:17 - 04:22] So this link skill already provides instructions on how to implement these designs for
+[04:23 - 04:30] The clad code or any agent so behind the scenes is gonna use the API is gonna access the HTML code and
+[04:31 - 04:36] Also as this screenshot is reference and it's gonna tour it into React native working out
+[04:37 - 04:42] Right, so this took a while but looks like it's done and now we can round it up
+[04:43 - 04:45] In the simulator to see what it looks like
+[04:46 - 04:50] Right and here we have our up and honestly looks exactly like the design
+[04:50 - 04:59] It has the same fonts the same icons the same images and layout and that's because this skill gives old instructions on how to
+[05:00 - 05:04] Implement the design tool a working actual mobile app
+[05:05 - 05:11] And yeah, here we have the our home screen if we click on a book we have the
+[05:12 - 05:14] the summary
+[05:14 - 05:16] We have our stud screen that we design in
+[05:17 - 05:22] Our profit screen so here if we need to add the new screens
+[05:22 - 05:29] We can ask clad code to use this skill to design them and then add them to the app and we can use clad code for
+[05:29 - 05:33] Building all the functionality the backend and so on and yeah
+[05:33 - 05:36] This is the workflow that I've been using when I have a mobile app idea
+[05:36 - 05:41] I want to build a force working version like really fast. I still have a good looking design
+[05:41 - 05:46] So yeah, hopefully you're funny helpful and let me know what you think this
